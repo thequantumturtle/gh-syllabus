@@ -7,7 +7,7 @@ courseName: Introduction to Digital Humanities for the Ancient World
 subtitle: ISAW-GA 3024-001 | Fall 2017
 
 # baseurl is the same as the name of the repository
-baseurl: /gh-syllabus
+baseurl: /isaw-dh-syllabus
 
 # url where the required reading is available to download
 docsUrl: "" 
