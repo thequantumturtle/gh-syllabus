@@ -5,12 +5,18 @@ title: Mapping 1
 tags: 
 ---
 
+## Assignment Due
+- Implement relational joins using a combination of pandas and sqlite3. Submit as iPython notebook.
+
 ## Before Class
-- Create an account on [github](http://www.github.com)
 
-## Reading
+### Download/Install/Etc.
+- 
 
-### Nowviskie, B. 2016. _"On Capacity and Care"_.
-[Link](http://nowviskie.org/2015/on-capacity-and-care/)
+## For Class
 
+### Reading
+- 
 
+#### Recommended for further reading
+- 

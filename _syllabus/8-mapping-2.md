@@ -5,12 +5,18 @@ title: Mapping 2
 tags: 
 ---
 
+## Assignment Due
+- CSV or GeoJSON file containing places of interest to you
+
 ## Before Class
-- Create an account on [github](http://www.github.com)
 
-## Reading
+### Download/Install/Etc.
+- 
 
-### Nowviskie, B. 2016. _"On Capacity and Care"_.
-[Link](http://nowviskie.org/2015/on-capacity-and-care/)
+## For Class
 
+### Reading
+- 
 
+#### Recommended for further reading
+- 

@@ -5,12 +5,18 @@ title: 'Column-Oriented Data 1: Visualization'
 tags: 
 ---
 
+## Assignment Due
+- Create an Omeka site via http://hosting.nyu.edu. For this exercise, please concentrate on functionality over aesthetics of presentation. Your site must have at least 12 objects in at least two different collections and a clear rationale for the metadata categories (you will want to modify the default Dublin Core) and controlled vocabularies you use. Please also install two plugins. 
+
 ## Before Class
-- Create an account on [github](http://www.github.com)
 
-## Reading
+### Download/Install/Etc.
+- 
 
-### Nowviskie, B. 2016. _"On Capacity and Care"_.
-[Link](http://nowviskie.org/2015/on-capacity-and-care/)
+## For Class
 
+### Reading
+- 
 
+#### Recommended for further reading
+- 
