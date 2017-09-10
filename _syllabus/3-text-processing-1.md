@@ -11,7 +11,7 @@ tags:
 ## Before Class
 
 ### Download/Install/Etc.
-- Install Anaconda Python (https://www.continuum.io/downloads)
+- Install [Anaconda Python](https://www.continuum.io/downloads)
 - Clone [https://github.com/isaw-ga-3024/python-course]([https://github.com/isaw-ga-3024/python-course])
 - Work through some "Learn the Basics" examples on [learnpython.org](https://www.learnpython.org/en/), including at least "Hello, World!" through "Basic String Operations"
 
