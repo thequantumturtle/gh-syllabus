@@ -8,15 +8,10 @@ tags:
 ## Assignment Due
 - A set of data visualizations using one of the tools presented in the previous class.
 
-## Before Class
-
-### Download/Install/Etc.
-- 
-
 ## For Class
 
 ### Reading
-- 
+- *A Database Primer*. [Link](http://www.databaseprimer.com)
 
-#### Recommended for further reading
-- 
+### Tools/Websites/Etc.
+- Look at [SQLFiddle](http://sqlfiddle.com/).

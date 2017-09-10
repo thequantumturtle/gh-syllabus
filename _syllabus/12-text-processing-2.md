@@ -12,6 +12,8 @@ tags:
 
 ### Download/Install/Etc.
 - Clone the following GitHub repo, "Exploring Diction and Topics in Latin Love Elegy". [Link](http://bit.ly/exploring-diction-topics-in-latin-elegy)
+- Go through RegexOne tutorials 1-15. [Link](https://regexone.com/lesson/introduction_abcs)
+    - For the motivated: Read Knox, D. 2013 "Understanding Regular Expressions," *The Programming Historian*. [Link](https://programminghistorian.org/lessons/understanding-regular-expressions). Be sure to look at the PH "[Lessons Index]"—even with its discipline-specific name, this site is an invaluable source of tutorials aimed at *all* Digital Humanists.
 
 ## For Class
 
