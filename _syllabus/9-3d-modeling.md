@@ -5,12 +5,18 @@ title: 3D Modeling
 tags: 
 ---
 
+## Assignment Due
+- Create a map or other spatial resource and be prepared to present it in class.
+
 ## Before Class
-- Create an account on [github](http://www.github.com)
 
-## Reading
+### Download/Install/Etc.
+- 
 
-### Nowviskie, B. 2016. _"On Capacity and Care"_.
-[Link](http://nowviskie.org/2015/on-capacity-and-care/)
+## For Class
 
+### Reading
+- 
 
+#### Recommended for further reading
+- 

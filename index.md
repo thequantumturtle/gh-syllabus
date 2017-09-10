@@ -6,6 +6,7 @@ menuPosition: 1
 ---
 <h1>{{ site.courseName }}</h1>
 
+<!--- GET FROM FLIER --->
 <!--- <img src="{{ site.baseurl }}/style/header.jpg" width="100%"> --->
 
 ISAW 2nd Floor Seminar Room  
@@ -33,18 +34,20 @@ Note: The syllabus is subject to occasional change. This is especially the case 
 
 
 ## Schedule
-**Week 1** (9/11): Introduction  
-**Week 2** (9/18): Textual Markup  
-**Week 3** (9/25): Text Processing with Python 1: Basics  
-**Week 4** (10/2): Content Management Systems with Omeka  
+[**Week 1**](syllabus/1-introduction.html) (9/11): Introduction  
+[**Week 2**](syllabus/2-textual-markup.html) (9/18): Textual Markup  
+[**Week 3**](syllabus/3-text-processing-1.html) (9/25): Text Processing with Python 1: Basics  
+[**Week 4**](syllabus/4-content-management.html) (10/2): Content Management Systems with Omeka  
 **No Class** (10/9)  
-**Week 5** (10/16): Column-Oriented Data 1: Visualization  
-**Week 6** (10/23): Column-Oriented Data 1: Relational Joins and SQL Queries  
-**Week 7** (10/30): Mapping 1  
-**Week 8** (11/6): Mapping 2  
-**Week 9** (11/13): 3D Modeling  
-**Week 10** (11/20): Teaching, Research, and Collaboration in the Digital Era  
-**Week 11** (11/27): Publication and Digital Work | Final Project Proposals  
-**Week 12** (12/4): Text Processing with Python 2: Counting and Classification | Final Project Updates  
-**Week 13** (12/11): Debates in Digital Ancient World Studies | Final Project Updates  
-**Week 14** (12/12): Final Project Presentations  
+[**Week 5**](syllabus/5-column-oriented-data-1.html) (10/16): Column-Oriented Data 1: Visualization  
+[**Week 6**](syllabus/6-column-oriented-data-2.html) (10/23): Column-Oriented Data 1: Relational Joins and SQL Queries  
+[**Week 7**](syllabus/7-mapping-1.html) (10/30): Mapping 1  
+[**Week 8**](syllabus/8-mapping-2.html) (11/6): Mapping 2  
+[**Week 9**](syllabus/9-3d-modeling.html) (11/13): 3D Modeling  
+[**Week 10**](syllabus/10-teaching-research-collaboration.html) (11/20): Teaching, Research, and Collaboration in the Digital Era  
+[**Week 11**](syllabus/11-publication-digital-work.html) (11/27): Publication and Digital Work | Final Project Proposals  
+[**Week 12**](syllabus/12-text-processing-2.html) (12/4): Text Processing with Python 2: Counting and Classification | Final Project Updates  
+[**Week 13**](syllabus/13-final-presentations.html) (12/11): Debates in Digital Ancient World Studies | Final Project Updates  
+[**Week 14**](syllabus/14-debates.html) (12/12): Final Project Presentations  
+
+*Schedule with assignments, readings, etc. can be found [here](schedule.html)*

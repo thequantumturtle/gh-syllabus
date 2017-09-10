@@ -5,12 +5,18 @@ title: Content Management Systems with Omeka
 tags: 
 ---
 
+## Assignment Due
+- Continue in the Python course until you feel comfortable adapting one of its algorithms to a text of your choosing.
+
 ## Before Class
-- Create an account on [github](http://www.github.com)
 
-## Reading
+### Download/Install/Etc.
+- 
 
-### Nowviskie, B. 2016. _"On Capacity and Care"_.
-[Link](http://nowviskie.org/2015/on-capacity-and-care/)
+## For Class
 
+### Reading
+- 
 
+#### Recommended for further reading
+- 

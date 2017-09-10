@@ -5,12 +5,18 @@ title: Teaching, Research, and Collaboration in the Digital Era
 tags: 
 ---
 
+## Assignment Due
+- Present an intellectually coherent set of 3D models in class using Sketchfab. At least three. Make use of Sketchfab’s annotation function.
+
 ## Before Class
-- Create an account on [github](http://www.github.com)
 
-## Reading
+### Download/Install/Etc.
+- 
 
-### Nowviskie, B. 2016. _"On Capacity and Care"_.
-[Link](http://nowviskie.org/2015/on-capacity-and-care/)
+## For Class
 
+### Reading
+- 
 
+#### Recommended for further reading
+- 
