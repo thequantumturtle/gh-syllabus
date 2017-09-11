@@ -1,5 +1,5 @@
 ---
-title: "Course name"
+title: Introduction to Digital Humanities for the Ancient World
 layout: home
 menuItem: "Syllabus"
 menuPosition: 1

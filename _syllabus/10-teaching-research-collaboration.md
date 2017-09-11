@@ -16,7 +16,7 @@ tags:
 ## For Class
 
 ### Class Outline
-This class will fall in three parts:
+- This class will fall in three parts:
     - First, we will reviewing the 3D work you have done for the week. 
     - Second, we will have a discussion of the digital humanities in the current academic landscape, led by Dot Porter from UPenn. The aim is to gain greater perspective on the different ways in which DH is pursued at academic institutions today, as a way of helping us think about what sort of digital humanists we are or are becoming.
     - Third, and to that end, we will ask that you present a 3-min. elevator pitch of your final project, articulating generally (and briefly!) your

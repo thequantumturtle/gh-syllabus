@@ -1,5 +1,5 @@
 ---
-title: Reading
+title: Schedule
 layout: page
 menuItem: Schedule
 menuPosition: 2

@@ -23,4 +23,4 @@ tags:
 
 ### Tools/Websites/Etc.
 - Look at [*Pleiades* Gazetteer of Past Places]().
-- Look at [*Antiquity À-la-carte](http://awmc.unc.edu/awmc/applications/alacarte/).
+- Look at [*Antiquity À-la-carte*](http://awmc.unc.edu/awmc/applications/alacarte/).

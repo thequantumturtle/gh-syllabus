@@ -7,7 +7,7 @@ tags:
 
 ## Assignment Due
 - Push (AKA "Sync" in the desktop version) an HTML text of your choosing to your GitHub repository. The HTML should have links and meaningful styling, preferably using a CSS stylesheet. The files should be called something like lastname.html and lastname.css.
-- Bonus: Make a pull request to the upstream GitHub repository, i.e. the class repository at https://github.com/isaw-ga-3024/dh-course-fall-2017
+- Bonus: Make a pull request to the upstream GitHub repository, i.e. the class repository at [https://github.com/isaw-ga-3024/dh-course-fall-2017](https://github.com/isaw-ga-3024/dh-course-fall-2017)
 
 ## Before Class
 
