@@ -17,10 +17,10 @@ tags:
 
 - Read Scheinfeldt, T. 2010. "Omeka and Its Peers". [Link](http://omeka.org/blog/2010/09/21/omeka-and-peers/)
 - Read (or re-read as necessary) the documentation for Reclaim Hosting (“Getting Started,” “Domain Management,” and “Omeka”)
-- Study two metadata schemes:
+- Study **two** metadata schemes:
     - Dublin Core metadata scheme (some help with the categories): [http://omeka.org/codex/Working_with_Dublin_Core](http://omeka.org/codex/Working_with_Dublin_Core)
     - And one other from this list, one that corresponds to the kind of objects you work with: [http://vraweb.org/resources/cataloging-metadata-and-data-management/metadata-standards/](http://vraweb.org/resources/cataloging-metadata-and-data-management/metadata-standards/)
-- Check out at least two sites that use Omeka and review their organization and the metadata categories they use: 
+- Check out at least **two** sites that use Omeka and review their organization and the metadata categories they use: 
     - http://omeka.org/codex/How_Might_You_Use_Omeka
     - https://omeka.org/codex/Sites_Using_Omeka
         - Here is one that deals with Classics: http://bosher.northwestern.edu/

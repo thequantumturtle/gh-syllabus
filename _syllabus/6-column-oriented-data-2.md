@@ -11,7 +11,7 @@ tags:
 ## For Class
 
 ### Reading
-- *A Database Primer*. [Link](http://www.databaseprimer.com)
+- Flanders, J. and F. Jannidis. 2015. "Chapter 16: Data Modeling," in *A New Companion to Digital Humanities*. [DOI](http://onlinelibrary.wiley.com/doi/10.1002/9781118680605.ch16/summary;jsessionid=6505041D8248CC23C5E632AA6CC5F7D0.f03t02) 
 
-### Tools/Websites/Etc.
-- Look at [SQLFiddle](http://sqlfiddle.com/).
+### Video
+- "Database Normalization" on Lynda.com [Link via NYU](https://www.lynda.com/course/sharerevideodirect/71929/78157?org=nyu.edu)

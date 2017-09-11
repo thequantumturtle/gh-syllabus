@@ -12,7 +12,7 @@ tags:
 
 ### Reading
 - Oetting, J. “Data Visualization 101: How to Choose the Right Chart or Graph for Your Data” [link](http://blog.hubspot.com/marketing/data-visualization-choosing-chart)
-- Salah, A.A., T. Chapman, et al. 2014. “How can we better use data and/or research visualization in the humanities?” on mediacommons. [Link](http://mediacommons.futureofthebook.org/question/how-can-we-better-use-data-andor-research-visualization-humanities)
+- Henthorn, J. et al. 2014. “How can we better use data and/or research visualization in the humanities?” on mediacommons. [Link](http://mediacommons.futureofthebook.org/question/how-can-we-better-use-data-andor-research-visualization-humanities)
 
 #### Recommended for further reading
-- Review visualization examples in [*The Data Visualization Catalogue*](http://www.datavizcatalogue.com)
+- Review visualization examples in [*The Data Visualisation Catalogue*](http://www.datavizcatalogue.com)
