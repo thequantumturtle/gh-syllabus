@@ -16,7 +16,7 @@ Patrick Burns, Sebastian Heath, Thomas Elliott, David Ratzan
 ## Office Hours
 Burns office hours: Tuesday 3:00-4:30pm ISAW 3-6  
 Heath office hours: Thursday 11:00am-12:00pm in the Classics Dept. downtown or by appointment  
-Ratzan office hours: By appointment  
+Ratzan office hours: By appointment (at ISAW)  
 
 ## Course Goals
 Students will gain familiarity with current digital tools and methods for the study of the Ancient World. Students will also gain experience that will allow them to evaluate new tools as they continue to become available during the course of their professional lives.
@@ -25,7 +25,7 @@ Students will gain familiarity with current digital tools and methods for the st
 30% participation in class, 10% weekly reading responses, 30% assignments, 30% final project.
 
 ## Weekly Reading Responses
-Each week students should either provide a 500 word response to one of the assigned readings or write three questions that arose while doing the reading. The response or questions should be entered into that week’s shared Google Doc.
+Each week students should either provide a 500 word response to one of the assigned readings or write three substantive questions that arose while doing the reading. The response or questions should be entered into that week’s shared Google Doc.
 
 ## Final project
 Students will define and implement a project that makes use of the techniques we discuss in-class. The project will be submitted in a form that approximates the effort of a 20-page research paper, including a 1500-word narrative that explains your goals, your results, and references related work. A bibliography is required and reference to the titles in it will show that you are familiar with related work and issues. Definition of the project will occur over the course of the term, with students making presentations on their progress as indicated in the syllabus. The last month of the course will be largely devoted to implementation. Projects that overlap with each student’s field of study are particularly welcome.  
