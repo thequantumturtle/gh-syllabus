@@ -1,8 +1,13 @@
-# gh-syllabus
-A template for a gh-pages hosted syllabus
+Syllabus for 
+Introduction to Digital Humanities for the Ancient World
+ISAW-GA 3024-001 | Fall 2017
 
-- See the [live site](https://jan-martinek.github.io/gh-syllabus/) generated from this repo.
-- See the code in the [gh-pages branch](https://github.com/jan-martinek/gh-syllabus/tree/gh-pages).
-- Clone this repository and make your own course syllabus on Github Pages.
+ISAW 2nd Floor Seminar Room  
+Monday 2:00-5:00pm  
+Patrick Burns, Sebastian Heath, Thomas Elliott, David Ratzan  
 
-Licensed under MIT License.
+Based on gh-syllabus, a template for a gh-pages hosted syllabus from [Jan Martinek](https://github.com/jan-martinek/gh-syllabus/tree/gh-pages).
+
+Syllabus content on the [gh-pages branch](https://github.com/diyclassics/isaw-dh-syllabus/tree/gh-pages). Site hosted on GitHub pages at [https://diyclassics.github.io/isaw-dh-syllabus/](https://diyclassics.github.io/isaw-dh-syllabus/).
+
+gh-syllabus licensed under MIT License.
