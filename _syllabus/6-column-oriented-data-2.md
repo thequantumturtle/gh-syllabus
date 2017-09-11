@@ -1,7 +1,7 @@
 ---
 week: 6
 day: October 23
-title: 'Column-Oriented Data 1: Relational Joins and SQL Queries'
+title: 'Column-Oriented Data 2: Relational Joins and SQL Queries'
 tags: 
 ---
 
