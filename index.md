@@ -47,7 +47,7 @@ Note: The syllabus is subject to occasional change. This is especially the case 
 [**Week 10**](syllabus/10-teaching-research-collaboration.html) (11/20): Teaching, Research, and Collaboration in the Digital Era  
 [**Week 11**](syllabus/11-publication-digital-work.html) (11/27): Publication and Digital Work | Final Project Proposals  
 [**Week 12**](syllabus/12-text-processing-2.html) (12/4): Text Processing with Python 2: Counting and Classification | Final Project Updates  
-[**Week 13**](syllabus/13-final-presentations.html) (12/11): Debates in Digital Ancient World Studies | Final Project Updates  
-[**Week 14**](syllabus/14-debates.html) (12/12): Final Project Presentations  
+[**Week 13**](syllabus/13-final-presentations.html) (12/11): **Final Project Presentations**
+[**Week 14**](syllabus/14-debates.html) (12/12): Debates in Digital Ancient World Studies
 
 *Schedule with assignments, readings, etc. can be found [here](schedule.html)*
