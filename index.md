@@ -16,7 +16,8 @@ Patrick Burns, Sebastian Heath, Thomas Elliott, David Ratzan
 ## Office Hours
 Burns office hours: Tuesday 3:00-4:30pm ISAW 3-6  
 Heath office hours: Thursday 11:00am-12:00pm in the Classics Dept. downtown or by appointment  
-Ratzan office hours: By appointment (at ISAW)  
+Ratzan office hours: By appointment (at ISAW)
+Elliott office hours: By appointment (via email)
 
 ## Course Goals
 Students will gain familiarity with current digital tools and methods for the study of the Ancient World. Students will also gain experience that will allow them to evaluate new tools as they continue to become available during the course of their professional lives.
