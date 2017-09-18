@@ -24,3 +24,8 @@ tags:
 - Pierazzo, E. 2016. "Textual Scholarship and Text Encoding," in *A New Companion to Digital Humanities*, eds. S. Schreibman, R. Siemens, and J. Unsworth. John Wiley & Sons, Ltd. [[Link](https://doi.org/10.1002/9781118680605.ch21)]
 - Dee, S. et al. 2016. "Learning by Doing: Learning to Implement the TEI Guidelines Through Digital Classics Publication," in *Digital Classics Outside the Echo-Chamber*, eds. Romanello, M. & G. Bodard. Ubiquity. [Download [here](https://www.ubiquitypress.com/site/chapters/10.5334/bat.b)]
 - Bodard, G. and S. Stoyanova. 2016. "Epigraphers and Encoders: Strategies for Teaching and Learning Digital Epigraphy," in *Digital Classics Outside the Echo-Chamber*, eds. Romanello, M. & G. Bodard. Ubiquity. [[Link](https://www.ubiquitypress.com/site/chapters/10.5334/bat.d)]
+
+### Slides
+- [Textual Markup](https://docs.google.com/presentation/d/18TUEqnF8g17QM2cNS4y-LsjtBbpLChkpLLkWE44HpHQ/edit?usp=sharing)
+
+
