@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Assignment Due
-- Push a marked-up text to the class GitHub repository at [https://github.com/isaw-ga-3024/dh-course-fall-2017](https://github.com/isaw-ga-3024/dh-course-fall-2017)
+- Push a marked-up text to your GitHub repository
 
 ## Before Class
 
