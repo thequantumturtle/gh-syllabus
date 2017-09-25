@@ -8,6 +8,6 @@ Patrick Burns, Sebastian Heath, Thomas Elliott, David Ratzan
 
 Based on gh-syllabus, a template for a gh-pages hosted syllabus from [Jan Martinek](https://github.com/jan-martinek/gh-syllabus/tree/gh-pages).
 
-Syllabus content on the [gh-pages branch](https://github.com/diyclassics/isaw-dh-syllabus/tree/gh-pages). Site hosted on GitHub pages at [https://diyclassics.github.io/isaw-dh-syllabus/](https://diyclassics.github.io/isaw-dh-syllabus/).
+Syllabus content on the [gh-pages branch](https://github.com/isaw-ga-3024/isaw-dh-syllabus/tree/gh-pages). Site hosted on GitHub pages at [https://isaw-ga-3024.github.io/isaw-dh-syllabus/](https://isaw-ga-3024.github.io/isaw-dh-syllabus/).
 
 gh-syllabus licensed under MIT License.
