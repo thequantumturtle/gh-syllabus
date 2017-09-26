@@ -21,10 +21,10 @@ tags:
     - Dublin Core metadata scheme (some help with the categories): [http://omeka.org/codex/Working_with_Dublin_Core](http://omeka.org/codex/Working_with_Dublin_Core)
     - And one other from this list, one that corresponds to the kind of objects you work with: [http://vraweb.org/resources/cataloging-metadata-and-data-management/metadata-standards/](http://vraweb.org/resources/cataloging-metadata-and-data-management/metadata-standards/)
 - Check out at least **two** sites that use Omeka and review their organization and the metadata categories they use: 
-    - http://omeka.org/codex/How_Might_You_Use_Omeka
-    - https://omeka.org/codex/Sites_Using_Omeka
-        - Here is one that deals with Classics: http://bosher.northwestern.edu/
-    - One recent pilot ISAW Omeka collection set up by Patrick Burns: Digital Central Asian Archaeology: http://dcaa.hosting.nyu.edu/. (Hopefully, we will have a new link up soon...)
+    - [http://omeka.org/codex/How_Might_You_Use_Omeka](http://omeka.org/codex/How_Might_You_Use_Omeka)
+    - [https://omeka.org/codex/Sites_Using_Omeka](https://omeka.org/codex/Sites_Using_Omeka)
+        - Here is one that deals with Classics: [http://bosher.northwestern.edu/](http://bosher.northwestern.edu/)
+    - One recent pilot ISAW Omeka collection set up by Patrick Burns: Digital Central Asian Archaeology: [http://dcaa.hosting.nyu.edu/](http://dcaa.hosting.nyu.edu/). (Hopefully, we will have a new link up soon...)
 - On the Week 4 Google Doc:	
     - Tell us which schema besides Dublin Core you looked at and why
     - Briefly review the Omeka sites with respect to organization and metadata choices or schemata
