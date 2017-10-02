@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Assignment Due
-Create an Omeka site via BYU's Reclaim Hosting (http://hosting.nyu.edu). For this exercise, please concentrate on functionality over aesthetics of presentation. Your site should:
+Create an Omeka site via NYU's Reclaim Hosting (http://hosting.nyu.edu). For this exercise, please concentrate on functionality over aesthetics of presentation. Your site should:
 - have no fewer than 12 objects, no more than 20
 - articulate at least two edited content types (*Adding your own item types: https://omeka.org/codex/Managing_Item_Types*)
 - organize items into at least two collections
