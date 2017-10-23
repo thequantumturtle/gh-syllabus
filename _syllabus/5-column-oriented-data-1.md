@@ -6,7 +6,13 @@ tags:
 ---
 
 ## Assignment Due
-- Create an Omeka site via NYU's Reclaim Hosting pilot (http://hosting.nyu.edu). For this exercise, please concentrate on functionality over aesthetics of presentation. Your site must have at least 12 objects in at least two different collections and a clear rationale for the metadata categories (you will want to modify the default Dublin Core) and controlled vocabularies you use. Please also install two plugins. 
+Create an Omeka site via NYU's Reclaim Hosting (http://hosting.nyu.edu). For this exercise, please concentrate on functionality over aesthetics of presentation. Your site should:
+- have no fewer than 12 objects, no more than 20
+- articulate at least two edited content types (*Adding your own item types: https://omeka.org/codex/Managing_Item_Types*)
+- organize items into at least two collections
+- employ at least two plug-ins beyond the default (only 1 can be from default package, e.g., SimplePages)
+- expose curatorial and editorial choices 
+ 
 
 ## For Class
 
