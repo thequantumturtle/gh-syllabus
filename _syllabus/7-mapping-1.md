@@ -22,5 +22,6 @@ tags:
 - Southall, H., R. Mostern, and M.L. Berman. 2011. "On Historical Gazetteers," *International Journal of Humanities and Arts Computing* 5: 127–45. DOI: 10.3366/ijhac.2011.0028. This is a paywalled resource. It is available through NYU Libraries online subscription (search in catalog). If you have trouble getting to it, please contact tom.elliott@nyu.edu. Do not pay for access!
 
 ### Tools/Websites/Etc.
-- Look at [*Pleiades* Gazetteer of Past Places]().
+- Look at [*Pleiades* Gazetteer of Past Places](https://pleiades.stoa.org).
+- Look at [*Pleiades Geocollider*](https://pleiades.stoa.org/news/blog/introducing-geocollider)
 - Look at [*Antiquity À-la-carte*](http://awmc.unc.edu/awmc/applications/alacarte/).
