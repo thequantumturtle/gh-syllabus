@@ -11,9 +11,7 @@ tags:
 - Present an intellectually coherent set of 3D models in class using Sketchfab. At least three. Make use of Sketchfab’s annotation function.
 
 ## Before Class
-- We will circulate materials, in coordination with our guest, for this class during the previous week's class.
-
-## For Class
+- Please the introduction to the just-published "digital supplement" of the medieval studies journal Speculum: http://www.journals.uchicago.edu/doi/full/10.1086/694236
 
 ### Class Outline
 - This class will fall in three parts:
