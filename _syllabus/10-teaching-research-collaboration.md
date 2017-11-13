@@ -7,11 +7,12 @@ tags:
 
 **We welcome [Dot Porter](http://dla.library.upenn.edu/dla/staff/record.html?id=619), Curator of Digital Research Services in the Schoenberg Institute for Manuscript Studies at Penn Libraries, to the class for this session.**
 
-## Assignment Due
-- Present an intellectually coherent set of 3D models in class using Sketchfab. At least three. Make use of Sketchfab’s annotation function.
-
 ## Before Class
 - Please the introduction to the just-published "digital supplement" of the medieval studies journal Speculum: http://www.journals.uchicago.edu/doi/full/10.1086/694236
+
+## Assignment Due
+- Present an intellectually coherent set of 3D models in class using Sketchfab. At least three. Make use of Sketchfab’s annotation function.
+- ca. 250 word response to the digital supplement to Speculum on the class google doc.
 
 ### Class Outline
 - This class will fall in three parts:
