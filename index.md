@@ -41,7 +41,7 @@ Note: The syllabus is subject to occasional change. This is especially the case 
 [**Week 4**](syllabus/4-content-management.html) (10/2): Content Management Systems with Omeka  
 **No Class** (10/9)  
 [**Week 5**](syllabus/5-column-oriented-data-1.html) (10/16): Column-Oriented Data 1: Visualization  
-[**Week 6**](syllabus/6-column-oriented-data-2.html) (10/23): Column-Oriented Data 1: Relational Joins and SQL Queries  
+[**Week 6**](syllabus/6-column-oriented-data-2.html) (10/23): Column-Oriented Data 2: Relational Joins and SQL Queries  
 [**Week 7**](syllabus/7-mapping-1.html) (10/30): Mapping 1  
 [**Week 8**](syllabus/8-mapping-2.html) (11/6): Mapping 2  
 [**Week 9**](syllabus/9-3d-modeling.html) (11/13): 3D Modeling  
