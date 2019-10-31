@@ -1,6 +1,6 @@
 ---
-week: 6
-day: February 24
+week: 11
+day: April 6 & 8
 title: Et cetera…
 tags: [youGetIt]
 ---

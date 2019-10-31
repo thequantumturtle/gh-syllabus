@@ -1,6 +1,6 @@
 ---
-week: 5
-day: February 19
+week: 10
+day: March 30 & April 1
 title: Et cetera…
 tags: [youGetIt]
 ---

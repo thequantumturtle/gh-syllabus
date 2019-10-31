@@ -1,6 +1,6 @@
 ---
 week: 1
-day: January 20
+day: January 20 & 22
 title: First session
 tags: [hello]
 ---
