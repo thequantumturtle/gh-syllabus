@@ -1,7 +1,7 @@
 ---
-title: Reading
+title: Schedule
 layout: page
-menuItem: Reading
+menuItem: Schedule
 menuPosition: 2
 ---
 {% if site.docsUrl != "" %}

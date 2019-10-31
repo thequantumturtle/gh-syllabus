@@ -1,10 +1,10 @@
 # configuration
 # fill in the course details
  
-courseName: Course name
+courseName: Quantum Computing Lab
 
 # small title that is at the top of every page
-subtitle: GHS101 course syllabus — spring semester 2022
+subtitle: Advanced Topics — 12 Credits — Spring Semester 2020
 
 # baseurl is the same as the name of the repository
 baseurl: /gh-syllabus
