@@ -1,8 +1,8 @@
 ---
-week: 2
-day: January 27
-title: Third unit
-tags: [deepStuff, science]
+week: 3
+day: February 5
+title: Et cetera…
+tags: [youGetIt]
 ---
 ### Surname, Name: _Book title_
 

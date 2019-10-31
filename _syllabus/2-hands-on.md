@@ -1,6 +1,6 @@
 ---
-week: 2
-day: September 8
+week: 1
+day: January 22
 title: Hands On
 tags: [hints, letsDoIt]
 ---
