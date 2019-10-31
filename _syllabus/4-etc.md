@@ -1,6 +1,6 @@
 ---
-week: 4
-day: September 22
+week: 2
+day: January 29 
 title: Et cetera…
 tags: [youGetIt]
 ---
