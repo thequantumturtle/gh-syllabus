@@ -1,6 +1,6 @@
 ---
-week: 7
-day: March 2 & 4
+week: 13
+day: April 20 & 22
 title: Et cetera…
 tags: [youGetIt]
 ---
