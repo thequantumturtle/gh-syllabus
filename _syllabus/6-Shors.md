@@ -1,8 +1,8 @@
 ---
-week: 7
-day: March 2 & 4
+week: 6
+day: February 24 & 26
 title: Shors Algorithm
-tags: [ThePhaseIsAboutYayBig]
+tags: [DownWithRSA]
 ---
 
 ### Before Class
