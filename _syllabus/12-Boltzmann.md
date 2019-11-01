@@ -5,7 +5,7 @@ title: Quantum Boltzmann Machines
 tags: [ML, NN]
 ---
 ### Before Class
-Read Chapter 14 in the [Octopus](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) Book
+Read Chapter 13 in the [Octopus](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) Book
 
 ### Summary
 Quantum Boltzmann machines could be a revolutionary take on NNs. Quantum computers can utilize fully connected Boltzmann machines without taking the computational penalty of classical computers. 
