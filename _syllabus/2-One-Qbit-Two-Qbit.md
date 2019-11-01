@@ -4,18 +4,12 @@ day: January 27 & 29
 title: One Qubit, Two Qubit, Circle Not, Bloch Not
 tags: [Qubit, Circle Notation, Bloch Sphere]
 ---
-### Woot, Name: _Book title_
 
-City: Publisher, 2017\. ISBN 123-45-678-9012-3.  
-**Required excerpt: p. 55–90 (35 pages). [PDF]({{ site.docsUrl }}article.pdf)**
+### Before Class
+Read Chapters 1-3 in the [Octopus](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) Book
 
-### Surname, Name: _Article title_  
+### Summary
+We will go over QC (quantum computing) basics. How to imagine quantum circuits vs classical circuits. The notation necessary to talk and communicate about quantum states. Single qubit and multi-qubit gates will be introduced and used.
 
-In: Publication, Date. [Available online.](http://publication.com/article_url)  
-**Entire article required (~5 pages). [PDF]({{ site.docsUrl }}cached-to-be-sure.pdf)**
-
-## Recommended reading
-
-### Surname, Name: _Article title_  
-
-In: Publication, Date. [Available online.](http://publication.com/article_url)  
+### Notes
+- Reminder to bring computer to class.
