@@ -1,0 +1,17 @@
+---
+week: 9
+day: March 23 & 25
+title: VQE and QAOA
+tags: [youGetIt]
+---
+### Before Class
+Read papers
+Watch Eddie Farhi [lecture](https://www.youtube.com/watch?v=wkBPp9UovVU)
+
+### Summary
+VQE and QAOA are amazing algorithms that are resilient to quantum error. They do not require error correction and might be the key to quantum advantage in the NISQ era.
+
+
+### Notes
+- Reminder to bring computer to class.
+- Guest Lecturer: Jason Larkin, Quantum Lead Researcher at SEI
