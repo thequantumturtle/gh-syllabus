@@ -22,7 +22,7 @@ Everything a student needs to know to not to succeed.
 		</tr>
 		<tr>
 			<td class="icon" style="color: orange">♺</td>
-			<td><b>Quizzes</b><br>30%</td>
+			<td><b>Weekly Quizzes</b><br>30%</td>
 			<td>Best 12 of 14</td>
 		</tr>
 	</tbody>
