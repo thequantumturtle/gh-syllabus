@@ -14,18 +14,13 @@ Use a nice table to present the basics.
 	<tbody>	
 		<tr>
 			<td class="icon" style="color: red">✎</td>
-			<td><b>Homeworks</b><br>40%</td>
-			<td>4 Homeworks (10% each)</td>
-		</tr>
-		<tr>
-			<td class="icon" style="color: green">{% octicon person %}</td>
-			<td><b>Group Project</b><br>30%</td>
-			<td>Semester long group project</td>
+			<td><b>Position papers</b><br>1 point</td>
+			<td>Short description.</td>
 		</tr>
 		<tr>
 			<td class="icon" style="color: orange">♺</td>
-			<td><b>Quizzes</b><br>30%</td>
-			<td>Best 12 out of 14</td>
+			<td><b>Attendance</b><br>1 point</td>
+			<td>Short description.</td>
 		</tr>
 	</tbody>
 </table>
