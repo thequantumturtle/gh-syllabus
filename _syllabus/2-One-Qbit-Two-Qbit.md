@@ -1,10 +1,10 @@
 ---
 week: 2
 day: January 27 & 29
-title: Hands On
-tags: [hints, letsDoIt]
+title: One Qubit, Two Qubit, Circle Not, Bloch Not
+tags: [Qubit, Circle Notation, Bloch Sphere]
 ---
-### Surname, Name: _Book title_
+### Woot, Name: _Book title_
 
 City: Publisher, 2017\. ISBN 123-45-678-9012-3.  
 **Required excerpt: p. 55–90 (35 pages). [PDF]({{ site.docsUrl }}article.pdf)**
