@@ -2,7 +2,7 @@
 week: 11
 day: April 6 & 8
 title: Quantum Support Vector Machines
-tags: [youGetIt]
+tags: [SeparateTheData]
 ---
 ### Before Class
 Read Chapter 13 in the [Octopus](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) Book
