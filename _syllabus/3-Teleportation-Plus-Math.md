@@ -2,7 +2,7 @@
 week: 3
 day: February 3 & 5
 title: Teleportation and Math 
-tags: [Beam Me Up Scotty, 1+1=3]
+tags: [BeamMeUpScotty, 1+1=3]
 ---
 
 ### Before Class
@@ -16,4 +16,4 @@ Next we will go over the implementation of basic math on quantum computers.
 
 ### Notes
 - Reminder to bring computer to class.
-- Given time, chapter 4 will be covered on Monday and Chapter 5 on Wednesday
+-  chapter 4 for Monday and Chapter 5 for Wednesday
