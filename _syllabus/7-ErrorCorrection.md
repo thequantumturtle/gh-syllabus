@@ -1,6 +1,6 @@
 ---
-week: 6
-day: February 24 & 26
+week: 7
+day: March 2 & 4
 title: Quantum Error Correction
 tags: [ThereGoesMySpeedup]
 ---
