@@ -4,36 +4,48 @@ layout: page
 menuItem: Course requirements
 menuPosition: 3
 ---
-Everything a student needs to know to not to fail. *Too too.*
+Everything a student needs to know to not to succeed.
 
-## Requirements
-
-Use a nice table to present the basics.
+## Grade Distribution
 
 <table>
 	<tbody>	
 		<tr>
 			<td class="icon" style="color: red">✎</td>
-			<td><b>Position papers</b><br>1 point</td>
-			<td>Short description.</td>
+			<td><b>Homework</b><br>40%</td>
+			<td>4 HWs. 10% each</td>
 		</tr>
 		<tr>
 			<td class="icon" style="color: orange">♺</td>
-			<td><b>Attendance</b><br>1 point</td>
-			<td>Short description.</td>
+			<td><b>Group Project</b><br>30%</td>
+			<td>Semester long project</td>
+		</tr>
+		<tr>
+			<td class="icon" style="color: orange">♺</td>
+			<td><b>Quizzes</b><br>30%</td>
+			<td>Best 12 of 14</td>
 		</tr>
 	</tbody>
 </table>
 
 
-### Position papers
+### Books
 
-All the details.
+#### Main Book: 
+- [Octopus Book](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)   
+    We will be working mostly out of this book.
+
+#### Extra Reading:
+- [Blue Book](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)    
+    This book gives a great explanation on how to conceptualize Quantum Computers. First few chapters are great if you don't feel confident with the math.
+- [Gentle Book](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)    
+    A very computer science take on quantum computers. A good read if you are hoping to do research.
+
 
 
 ### Attendance
 
-All the details.
+Show up to class. It will help you succeed.
 
 
 ## Grading
@@ -43,8 +55,8 @@ There's a maximum score: 100 points.
 - 100—90: A
 - 89—80: B
 - 79—70: C
-- …
-- less than X: F
+- 69—60: D
+- less than 60: F
 
 There's [a place where the current grading info is kept]({{ site.gradingUrl }}).
 
