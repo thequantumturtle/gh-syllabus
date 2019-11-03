@@ -11,17 +11,17 @@ Everything a student needs to know to not to succeed.
 <table>
 	<tbody>	
 		<tr>
-			<td class="icon" style="color: red">✎</td>
+			<td class="icon" style="color: red">💻</td>
 			<td><b>Homework</b><br>40%</td>
 			<td>4 HWs. 10% each</td>
 		</tr>
 		<tr>
-			<td class="icon" style="color: orange">♺</td>
+			<td class="icon" style="color: orange">🤝</td>
 			<td><b>Group Project</b><br>30%</td>
 			<td>Semester long project</td>
 		</tr>
 		<tr>
-			<td class="icon" style="color: orange">♺</td>
+			<td class="icon" style="color: orange">📑</td>
 			<td><b>Weekly Quizzes</b><br>30%</td>
 			<td>Best 12 of 14</td>
 		</tr>
