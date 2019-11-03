@@ -64,15 +64,15 @@ When and where.
 [**Week 3**](syllabus/3-Teleportation-Plus-Math.html) (9/25): Quantum Teleportation and Basic Arithmetic  
 [**Week 4**](syllabus/4-Amp-Amp-Grovers.html) (10/2): Amplitude Amplification and Grover's Algorithm  | Submit team name and members
 **No Class** (10/9)  
-[**Week 5**](syllabus/5-Cryptography.html) (10/16): Quantum Cryptography: BB84
-[**Week 6**](syllabus/6-QFT-PhaseEstimation.html) (10/23): Quantum Fourier Transform and Phase Estimation | Project Proposals Due
+[**Week 5**](syllabus/5-Cryptography.html) (10/16): Quantum Cryptography: BB84  
+[**Week 6**](syllabus/6-QFT-PhaseEstimation.html) (10/23): Quantum Fourier Transform and Phase Estimation | Project Proposals Due  
 [**Week 7**](syllabus/7-Shors.html) (10/30): Shor's Algorithm  
-[**Week 8**](syllabus/8-ErrorCorrection.html) (11/6): Quantum Error Correction | Project Updates
+[**Week 8**](syllabus/8-ErrorCorrection.html) (11/6): Quantum Error Correction | Project Updates  
 [**Week 9**](syllabus/9-NISQ.html) (11/13): Noisy Intermediate Scale Quantum Computing  
-[**Week 10**](syllabus/10-VQE-QAOA.html) (11/20): VQE and QAOA Optimization
+[**Week 10**](syllabus/10-VQE-QAOA.html) (11/20): VQE and QAOA Optimization  
 [**Week 11**](syllabus/11-HHL.html) (11/27): HHL Algorithm for systems of linear equations | Project Updates  
-[**Week 12**](syllabus/12-QSVM.html) (12/4): Quantum Support Vector Machines 
-[**Week 13**](syllabus/13-Boltzmann.html) (12/11): Quantum Boltzmann Machines
+[**Week 12**](syllabus/12-QSVM.html) (12/4): Quantum Support Vector Machines   
+[**Week 13**](syllabus/13-Boltzmann.html) (12/11): Quantum Boltzmann Machines   
 [**Week 14**](syllabus/14-GoingForward.html) (12/12): Going Forward and **Final Project Presentations**
 
 *Schedule with assignments, readings, etc. can be found [here](schedule.html)*
