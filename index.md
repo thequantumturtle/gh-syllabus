@@ -8,28 +8,32 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-- This is a **template of a course syllabus microsite** based on Jekyll/Github Pages. (Licensed under MIT: use at will!)
-- See [a live example of a syllabus](http://jan-martinek.github.io/ktai.peerb/) in the wild.
-- Clone [the repository](https://github.com/jan-martinek/gh-syllabus) and do your magic! 
-- Only basic HTML/Markdown and Github knowledge is needed.
-	- Website contents are in the `gh-pages` branch (read more about [Github Pages](https://pages.github.com)). 
-	- Github automagically generates a nice website at `http://your-username.github.io/repository-name/`.
-	- Edit the `something.md` files in the root folder and unit descriptions in `_syllabus/`.
+Mondays and Wednesdays (Time TBD)
+Rita Singh, Bhiksha Raj, Daniel Justice
+
+## Office Hours
+TBD
+
+## Course Goals
+Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implentation on state of the art quantum computer simulators and hardware. 
+
+## Grading
+40% Homeworks, 30% group project, 30% weekly quizzes.
+
+## Homeworks
+4 homeworks that are worth 10% each that will be evenly distributed throughout the semester.
+
+## Group Project
+A group project taking up much of the semester will be required. Teams will choose their own project topic. Suggested projects will be supplied.
+
+## Quizzes
+Each week a quiz will be given. Only the top 12 of 14 quizzes will count.
 
 
-## Why to enroll?
-
-- There's a good reason.
-- And another one.
-
-[Enroll right now!](https://your-school-information-system.edu/course-page)
-
-## Course goals
-
-Students will be able to…
+Note: The syllabus is subject to occasional change. This is especially the case in the latter half of the semester once your professors have become comfortable with the group's overall skill level. Adequate notice will be given.
 
 
-## Lectures/seminars
+## Schedule
 
 When and where.
 
