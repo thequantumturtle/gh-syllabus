@@ -4,7 +4,7 @@ layout: page
 menuItem: Course requirements
 menuPosition: 3
 ---
-Everything a student needs to know to not to succeed.
+Everything a student needs to know to succeed.
 
 ## Grade Distribution
 
@@ -58,9 +58,7 @@ There's a maximum score: 100 points.
 - 69—60: D
 - less than 60: F
 
-There's [a place where the current grading info is kept]({{ site.gradingUrl }}).
-
 
 ## What to do in case of illness etc.
 
-Your policies.
+If there is an emergency of an kind preventing you from attending please send an email.
