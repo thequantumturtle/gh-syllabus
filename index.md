@@ -8,8 +8,7 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-Mondays and Wednesdays (Time TBD)
-
+Mondays and Wednesdays (Time TBD)   
 Rita Singh, Bhiksha Raj, Daniel Justice
 
 ## Office Hours
@@ -48,11 +47,11 @@ Each week we will dive into a new topic. One day each week will be application b
 [**Week 1**](syllabus/1-Introduction.html) (1/20 & 1/22): Introduction  
 [**Week 2**](syllabus/2-One-Qbit-Two-Qbit.html) (1/27 & 1/29): Qubits and Gates  
 [**Week 3**](syllabus/3-Teleportation-Plus-Math.html) (2/3 & 2/5): Quantum Teleportation and Basic Arithmetic  
-[**Week 4**](syllabus/4-Amp-Amp-Grovers.html) (2/10 & 2/12): Amplitude Amplification and Grover's Algorithm  | **Submit team members** 
+[**Week 4**](syllabus/4-Amp-Amp-Grovers.html) (2/10 & 2/12): Amplitude Amplification and Grover's Algorithm  | **Submit team members**   
 [**Week 5**](syllabus/5-Cryptography.html) (2/17 & 2/19): Quantum Cryptography: BB84  
-[**Week 6**](syllabus/6-QFT-PhaseEstimation.html) (2/24 & 2/26): Quantum Fourier Transform and Phase Estimation | **Project Proposals Due**  
+[**Week 6**](syllabus/6-QFT-PhaseEstimation.html) (2/24 & 2/26): Q Fourier Transform and Phase Estimation | **Project Proposals Due**  
 [**Week 7**](syllabus/7-Shors.html) (3/2 & 3/4): Shor's Algorithm  
-**No Class** (3/9 & 3/11) 
+**No Class** (3/9 & 3/11)   
 [**Week 8**](syllabus/8-ErrorCorrection.html) (3/16 & 3/18): Quantum Error Correction | **Project Updates**  
 [**Week 9**](syllabus/9-NISQ.html) (3/23 & 3/25): Noisy Intermediate Scale Quantum Computing  
 [**Week 10**](syllabus/10-VQE-QAOA.html) (3/30 & 4/1): VQE and QAOA Optimization  
