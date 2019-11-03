@@ -39,23 +39,9 @@ Students will **not** need an understanding of quantum mechanics.
 Note: The syllabus is subject to occasional change. This is especially the case in the latter half of the semester once your professors have become comfortable with the group's overall skill level. Adequate notice will be given.
 
 
-## Schedule
-
-When and where.
-
-
 ## Basic course structure
 
-**Week 1–4:** Something basic.
-
-**Week 5–7:** Something not that basic.
-
-**Week 8-12:** There will be sweat.
-
-
-## Teaching methods
-
-* **Method**: this is what I believe is the right way.
+Each week we will dive into a new topic. One day each week will be application based and the other will be theory based. 
 
 
 ## Schedule
