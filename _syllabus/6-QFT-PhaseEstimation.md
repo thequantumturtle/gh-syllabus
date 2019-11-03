@@ -1,6 +1,6 @@
 ---
-week: 5
-day: February 17 & 19
+week: 6
+day: February 24 & 26
 title: QFT and Phase Estimation
 # tags: [FFTisSlow, PhaseIs5Big]
 ---

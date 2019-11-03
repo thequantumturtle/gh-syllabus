@@ -1,6 +1,6 @@
 ---
-week: 10
-day: March 30 & April 1
+week: 11
+day: April 6 & 8
 title: HHL Algorithm
 # tags: [youGetIt]
 ---

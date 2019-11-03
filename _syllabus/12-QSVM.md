@@ -1,6 +1,6 @@
 ---
-week: 11
-day: April 6 & 8
+week: 12
+day: April 13 & 15
 title: Quantum Support Vector Machines
 # tags: [SeparateTheData]
 ---

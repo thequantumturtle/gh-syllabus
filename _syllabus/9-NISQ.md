@@ -1,6 +1,6 @@
 ---
-week: 8
-day: March 16 & 18
+week: 9
+day: March 23 & 25
 title: NISQ
 # tags: [ICantHearYou]
 ---

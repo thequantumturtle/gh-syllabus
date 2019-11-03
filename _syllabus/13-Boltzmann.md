@@ -1,6 +1,6 @@
 ---
-week: 12
-day: April 13 & 15
+week: 13
+day: April 20 & 22
 title: Quantum Boltzmann Machines
 # tags: [ML, NN]
 ---

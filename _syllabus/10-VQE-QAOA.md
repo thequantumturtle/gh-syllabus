@@ -1,6 +1,6 @@
 ---
-week: 9
-day: March 23 & 25
+week: 10
+day: March 30 & April 1
 title: VQE and QAOA
 # tags: [AlphabetSoupLoopDeLoop]
 ---

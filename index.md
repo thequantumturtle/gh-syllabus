@@ -59,7 +59,7 @@ When and where.
 
 
 ## Schedule
-[**Week 1**](syllabus/1-introduction.html) (9/11): Introduction  
+[**Week 1**](syllabus/1-Introduction.html) (9/11): Introduction  
 [**Week 2**](syllabus/2-One-Qbit-Two-Qbit.html) (9/18): Qubits and Gates  
 [**Week 3**](syllabus/3-Teleportation-Plus-Math.html) (9/25): Quantum Teleportation and Basic Arithmetic  
 [**Week 4**](syllabus/4-content-management.html) (10/2): Content Management Systems with Omeka  
