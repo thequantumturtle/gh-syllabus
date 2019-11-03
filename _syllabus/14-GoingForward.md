@@ -2,7 +2,7 @@
 week: 14
 day: April 27 & 29
 title: Going Forward
-tags: [RedPillBluePill]
+# tags: [RedPillBluePill]
 ---
 
 ### Before Class

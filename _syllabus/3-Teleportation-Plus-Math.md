@@ -2,7 +2,7 @@
 week: 3
 day: February 3 & 5
 title: Teleportation and Math 
-tags: [BeamMeUpScotty, 1+1=3]
+# tags: [BeamMeUpScotty, 1+1=3]
 ---
 
 ### Before Class

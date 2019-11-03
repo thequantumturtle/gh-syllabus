@@ -2,7 +2,7 @@
 week: 12
 day: April 13 & 15
 title: Quantum Boltzmann Machines
-tags: [ML, NN]
+# tags: [ML, NN]
 ---
 ### Before Class
 Read Chapter 13 in the [Octopus](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) Book

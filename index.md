@@ -9,6 +9,7 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
 Mondays and Wednesdays (Time TBD)
+
 Rita Singh, Bhiksha Raj, Daniel Justice
 
 ## Office Hours

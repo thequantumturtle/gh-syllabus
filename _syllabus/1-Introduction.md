@@ -2,7 +2,7 @@
 week: 1
 day: January 20 & 22
 title: Introduction
-tags: [hello]
+# tags: [hello]
 ---
 
 

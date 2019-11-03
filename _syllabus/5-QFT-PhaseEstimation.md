@@ -2,7 +2,7 @@
 week: 5
 day: February 17 & 19
 title: QFT and Phase Estimation
-tags: [FFTisSlow, PhaseIs5Big]
+# tags: [FFTisSlow, PhaseIs5Big]
 ---
 
 ### Before Class

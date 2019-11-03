@@ -2,7 +2,7 @@
 week: 4
 day: February 10 & 12
 title: Amplitude Amplification and Grovers
-tags: [AmpAmp, ShoesInShoeBoxes]
+# tags: [AmpAmp, ShoesInShoeBoxes]
 ---
 
 ### Before Class

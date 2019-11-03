@@ -2,7 +2,7 @@
 week: 2
 day: January 27 & 29
 title: One Qubit, Two Qubit, Circle Not, Bloch Not
-tags: [Qubit, Circle Notation, Bloch Sphere]
+# tags: [Qubit, Circle Notation, Bloch Sphere]
 ---
 
 ### Before Class

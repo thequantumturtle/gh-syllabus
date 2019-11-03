@@ -2,7 +2,7 @@
 week: 8
 day: March 16 & 18
 title: NISQ
-tags: [ICantHearYou]
+# tags: [ICantHearYou]
 ---
 ### Before Class
 Read some papers talking about the current challenges with IBM, Rigetti and Google machines

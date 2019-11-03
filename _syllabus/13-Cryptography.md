@@ -2,7 +2,7 @@
 week: 13
 day: April 20 & 22
 title: Quantum Cryptography
-tags: [CaeserCantCypherThis]
+# tags: [CaeserCantCypherThis]
 ---
 ### Before Class
 (Optional) Read Chapter 9 in the [Blue Book](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)

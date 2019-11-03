@@ -2,7 +2,7 @@
 week: 9
 day: March 23 & 25
 title: VQE and QAOA
-tags: [AlphabetSoupLoopDeLoop]
+# tags: [AlphabetSoupLoopDeLoop]
 ---
 ### Before Class
 Read papers

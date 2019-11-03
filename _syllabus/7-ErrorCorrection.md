@@ -2,7 +2,7 @@
 week: 7
 day: March 2 & 4
 title: Quantum Error Correction
-tags: [ThereGoesMySpeedup]
+# tags: [ThereGoesMySpeedup]
 ---
 ### Before Class
 Read Moinuddin K Qureshi work (To be suggested by Qureshi)
