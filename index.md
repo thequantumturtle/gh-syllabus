@@ -47,7 +47,7 @@ Each week we will dive into a new topic. One day each week will be application b
 [**Week 1**](syllabus/1-Introduction.html) (1/20 & 1/22): Introduction  
 [**Week 2**](syllabus/2-One-Qbit-Two-Qbit.html) (1/27 & 1/29): Qubits and Gates  
 [**Week 3**](syllabus/3-Teleportation-Plus-Math.html) (2/3 & 2/5): Quantum Teleportation and Basic Arithmetic  
-[**Week 4**](syllabus/4-Amp-Amp-Grovers.html) (2/10 & 2/12): Amplitude Amplification and Grover's Algorithm  | **Submit team members**   
+[**Week 4**](syllabus/4-Amp-Amp-Grovers.html) (2/10 & 2/12): Amplitude Amplification and Grover's  | **Submit team members**   
 [**Week 5**](syllabus/5-Cryptography.html) (2/17 & 2/19): Quantum Cryptography: BB84  
 [**Week 6**](syllabus/6-QFT-PhaseEstimation.html) (2/24 & 2/26): Q Fourier Transform and Phase Estimation | **Project Proposals Due**  
 [**Week 7**](syllabus/7-Shors.html) (3/2 & 3/4): Shor's Algorithm  
