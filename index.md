@@ -15,7 +15,7 @@ Rita Singh, Bhiksha Raj, Daniel Justice
 TBD
 
 ## Course Goals
-Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implentation on state of the art quantum computer simulators and hardware. 
+Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
 
 ## Grading
 40% Homeworks, 30% group project, 30% weekly quizzes.
