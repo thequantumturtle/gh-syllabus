@@ -8,8 +8,12 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
+## Announcements!
+
+(2020/01/09) Your uncertainty has collapsed and we can all observe that there will be no class Monday 01/20. It's a holiday and if you show up you will be lonely. Class starts Wednesday 01/22. 
+
 Mondays and Wednesdays (Time TBD)   
-Rita Singh, Bhiksha Raj, Daniel Justice
+Rita Singh, Daniel Justice, Bhiksha Raj, Ben Striner
 
 ## Office Hours
 TBD
