@@ -15,8 +15,10 @@ menuPosition: 1
 Mondays and Wednesdays (Time TBD)   
 Rita Singh, Daniel Justice, Bhiksha Raj, Ben Striner
 
-## Office Hours
-TBD
+## Time
+Mon & Wed from 4:00pm to 5:20pm 
+Wean 5302
+
 
 ## Course Goals
 Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
