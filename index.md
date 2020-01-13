@@ -6,7 +6,7 @@ menuPosition: 1
 ---
 <h1>{{ site.courseName }}</h1>
 
-<img src="{{ site.baseurl }}/style/header.jpg" width="100%">
+<img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
 ## Announcements!
 
