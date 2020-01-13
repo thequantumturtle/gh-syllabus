@@ -8,17 +8,12 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
+Mondays and Wednesdays (4:00pm to 5:20pm Wean 5302)   
+Rita Singh, Daniel Justice, Bhiksha Raj, Ben Striner
+
 ## Announcements!
 
 (2020/01/09) Your uncertainty has collapsed and we can all observe that there will be no class Monday 01/20. It's a holiday and if you show up you will be lonely. Class starts Wednesday 01/22. 
-
-Mondays and Wednesdays (Time TBD)   
-Rita Singh, Daniel Justice, Bhiksha Raj, Ben Striner
-
-## Time
-Mon & Wed from 4:00pm to 5:20pm 
-Wean 5302
-
 
 ## Course Goals
 Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
