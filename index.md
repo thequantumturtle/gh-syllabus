@@ -53,8 +53,8 @@ Each week we will dive into a new topic. One day each week will be application b
 [**Week 6**](syllabus/6-QFT-PhaseEstimation.html) (2/24 & 2/26): Q Fourier Transform and Phase Estimation | **Project Proposals Due**  
 [**Week 7**](syllabus/7-Shors.html) (3/2 & 3/4): Shor's Algorithm  
 **No Class** (3/9 & 3/11)   
-[**Week 8**](syllabus/8-ErrorCorrection.html) (3/16 & 3/18): Quantum Error Correction | **Project Updates**  
-[**Week 9**](syllabus/9-NISQ.html) (3/23 & 3/25): Noisy Intermediate Scale Quantum Computing  
+[**Week 8**](syllabus/8-ErrorCorrection.html) (3/16 & 3/18): Quantum Error Correction and Quantum Annealing| **Guest Lecturer**   
+[**Week 9**](syllabus/9-NISQ.html) (3/23 & 3/25): Noisy Intermediate Scale Quantum Computing  | **Project Updates**
 [**Week 10**](syllabus/10-VQE-QAOA.html) (3/30 & 4/1): VQE and QAOA Optimization  
 [**Week 11**](syllabus/11-HHL.html) (4/6 & 4/8): HHL Algorithm for systems of linear equations | **Project Updates**  
 [**Week 12**](syllabus/12-QSVM.html) (4/13 & 4/15): Quantum Support Vector Machines   
